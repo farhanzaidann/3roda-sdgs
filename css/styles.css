@@ -95,7 +95,14 @@ nav ul li a:hover {
 
 /* style gallery section */
 .gallery-section {
-    margin: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+    list-style: none;
+}
+
+.gallery-section ul {
+    list-style: none;
+    padding: 0;
 }
 
 button {
