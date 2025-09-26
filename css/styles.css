@@ -100,6 +100,18 @@ nav ul li a:hover {
     margin-top: 2rem;
 }
 
+/* style gallery section */
+.gallery-section {
+    margin-left: 150px;
+    margin-right: 150px;
+    list-style: none;
+}
+
+.gallery-section ul {
+    list-style: none;
+    padding: 0;
+}
+
 button {
     background-color: #383c40;
     color: #f0f2f5;
