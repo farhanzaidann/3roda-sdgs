@@ -92,3 +92,8 @@ nav ul li a:hover {
     line-height: 1.7;
     margin-bottom: 20px;
 }
+
+/* style gallery section */
+.gallery-section {
+    margin: 80px;
+}
