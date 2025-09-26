@@ -93,7 +93,20 @@ nav ul li a:hover {
     margin-bottom: 20px;
 }
 
+<<<<<<< HEAD
 /* style gallery section */
 .gallery-section {
     margin: 80px;
+=======
+button {
+    background-color: #0447bc;
+    color: #f0f2f5;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    display: inline-block;
+    margin: 0 auto;
+>>>>>>> 175727a00c29429e253e1e1a42174d27fa75f21a
 }
