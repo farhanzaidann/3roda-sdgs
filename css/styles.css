@@ -93,8 +93,15 @@ nav ul li a:hover {
     margin-bottom: 20px;
 }
 
+/* submit pesan*/
+.contact-form {
+    flex-direction: column;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
 button {
-    background-color: #0447bc;
+    background-color: #383c40;
     color: #f0f2f5;
     border: none;
     padding: 10px 20px;
@@ -103,4 +110,14 @@ button {
     font-size: 1rem;
     display: inline-block;
     margin: 0 auto;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* styling carousel */
+.splide__slide img {
+    width: 70%;
+    height: 50%;
 }
