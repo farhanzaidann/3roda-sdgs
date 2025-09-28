@@ -60,19 +60,19 @@ nav ul li a:hover {
     padding: 0 20px;
 }
 
-/* galeri gambar dan keterangan sejajar */
+/* style galeri item */
 .gallery-item {
     display: flex;
     align-items: flex-start;
     gap: 20px;
-    margin-bottom: 24px;
+    margin-bottom: 15px;
 }
 .gallery-item img {
     flex-shrink: 0;
     border-radius: 8px;
 }
 .gallery-item p {
-    margin: 0;
+    margin: 0px;
     font-size: 16px;
     color: #333;
     line-height: 1.6;
@@ -101,9 +101,9 @@ nav ul li a:hover {
 
 /* style gallery section */
 .gallery-section {
+    text-align: justify;
     margin-left: 150px;
     margin-right: 150px;
-    list-style: none;
 }
 
 .gallery-section ul {
