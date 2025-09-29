@@ -1,3 +1,4 @@
+/* style keseluruhan */
 body {
     margin: 0;
     font-family: 'Inter', sans-serif;
@@ -100,7 +101,7 @@ nav ul li a:hover {
 }
 
 
-/* kontak */
+/* form kontak */
 .contact-form h1 {
     font-size: 32px;
     font-weight: 700;
@@ -142,18 +143,6 @@ nav ul li a:hover {
     resize: vertical;
 }
 
-/* style gallery section */
-.gallery-section {
-    text-align: justify;
-    margin-left: 150px;
-    margin-right: 150px;
-}
-
-.gallery-section ul {
-    list-style: none;
-    padding: 0;
-}
-
 button {
     background-color: #383c40;
     color: #f0f2f5;
@@ -170,6 +159,18 @@ button:hover {
     background-color: #0056b3;
 }
 
+/* style gallery section */
+.gallery-section {
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.gallery-section ul {
+    list-style: none;
+    padding: 0;
+}
+
 /* styling carousel */
 .splide__slide img {
     width: 70%;
@@ -177,6 +178,7 @@ button:hover {
 }
 
 
+/* style information section */
 .information-section {
     margin: 2rem;
     text-align: justify;
