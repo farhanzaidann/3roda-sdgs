@@ -111,6 +111,7 @@ nav ul li a:hover {
     padding: 0;
 }
 
+/* styling tombol sumbit */
 button {
     background-color: #383c40;
     color: #f0f2f5;
@@ -126,13 +127,6 @@ button {
 button:hover {
     background-color: #0056b3;
 }
-
-/* styling carousel */
-.splide__slide img {
-    width: 70%;
-    height: 50%;
-}
-
 
 .information-section {
     margin: 2rem;
