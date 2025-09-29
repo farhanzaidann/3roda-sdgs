@@ -24,12 +24,7 @@ nav {
 }
 
 .logo {
-    font-weight: 700;
-    font-size: 18px;
-    text-decoration: none;
-    color: white;
-    margin-right: 24px;
-    margin-left: 12px;
+    width: 3rem;
 }
 
 nav ul {
@@ -60,19 +55,21 @@ nav ul li a:hover {
     padding: 0 20px;
 }
 
-/* galeri gambar dan keterangan sejajar */
+/* style galeri item */
 .gallery-item {
     display: flex;
     align-items: flex-start;
     gap: 20px;
-    margin-bottom: 24px;
+    margin-bottom: 20px;
 }
+
 .gallery-item img {
     flex-shrink: 0;
-    border-radius: 8px;
+    border-radius: 10px;
 }
+
 .gallery-item p {
-    margin: 0;
+    margin: 0px;
     font-size: 16px;
     color: #333;
     line-height: 1.6;
@@ -94,16 +91,62 @@ nav ul li a:hover {
 
 /* submit pesan*/
 .contact-form {
-    flex-direction: column;
-    margin-left: 2rem;
-    margin-top: 2rem;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+/* kontak */
+.contact-form h1 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.contact-form p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.contact-form {
+    max-width: 600px;
+    margin: 40px auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 95%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.form-group textarea {
+    resize: vertical;
 }
 
 /* style gallery section */
 .gallery-section {
+    text-align: justify;
     margin-left: 150px;
     margin-right: 150px;
-    list-style: none;
 }
 
 .gallery-section ul {
@@ -131,4 +174,15 @@ button:hover {
 .information-section {
     margin: 2rem;
     text-align: justify;
+}
+
+.information-section img {
+    border-radius: 16px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f2f2f2;
+    color: #333;
 }
