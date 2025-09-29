@@ -144,13 +144,13 @@ nav ul li a:hover {
 }
 
 /* style gallery section */
-.gallery-section {
+.blog-section {
     text-align: justify;
     margin-left: 150px;
     margin-right: 150px;
 }
 
-.gallery-section ul {
+.blog-section ul {
     list-style: none;
     padding: 0;
 }
