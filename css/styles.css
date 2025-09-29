@@ -144,13 +144,13 @@ nav ul li a:hover {
 }
 
 /* style gallery section */
-.gallery-section {
+.blog-section {
     text-align: justify;
     margin-left: 150px;
     margin-right: 150px;
 }
 
-.gallery-section ul {
+.blog-section ul {
     list-style: none;
     padding: 0;
 }
@@ -187,4 +187,15 @@ footer {
     padding: 20px 0;
     background-color: #f2f2f2;
     color: #333;
+}
+
+.profile-section {
+    text-align: justify;
+    display: grid;
+    margin: 0rem 5rem 5rem;
+    justify-items: center;
+}
+
+.profile-section img {
+    margin-bottom: 10px;
 }
