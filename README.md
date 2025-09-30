@@ -10,7 +10,7 @@ Proyek ini bertujuan untuk menjadi sumber informasi yang mudah diakses mengenai 
 
 *   **Beranda:** Halaman utama yang memberikan pengenalan singkat tentang SDG 16.
 *   **Informasi:** Halaman yang berisi penjelasan mendalam mengenai target dan indikator SDG 16.
-*   **Blog:** Galeri gambar yang memberikan konteks visual tentang berbagai aspek SDG 16.
+*   **Blog:** Halaman yang berisi konteks visual beserta sumber yang berkaitan dengan SDG 16.
 *   **Profil:** Informasi mengenai tim pengembang website ini.
 *   **Kontak:** Informasi kontak untuk tim pengembang.
 
