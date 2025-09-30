@@ -31,3 +31,6 @@ Proyek ini bertujuan untuk menjadi sumber informasi yang mudah diakses mengenai 
 *   Farhan Zaidan: Beranda, Informasi, Profil, Kontak
 *   Sahrul Baihaqi: Blog, Informasi, Profil
 *   Sasa Maylina: Profil, Informasi, Kontak
+
+
+*   Link GitHub: https://github.com/farhanzaidann/3roda-sdgs.git
