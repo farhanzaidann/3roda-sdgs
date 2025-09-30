@@ -205,3 +205,17 @@ footer {
 .profile-section img {
     margin-bottom: 20px;
 }
+
+/* logo berputar */
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.spinning-logo {
+    animation: spin 10s linear infinite;
+}
